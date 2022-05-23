@@ -1,0 +1,27 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: init-demo
+  namespace: mmenke
+spec:
+  containers:
+  - name: nginx
+    image: nginx
+    ports:
+    - containerPort: 5000
+    volumeMounts:
+    - name: umls-persistent
+      mountPath: /app/api/elastictrainer/src
+  # These containers are run during pod initialization
+  initContainers:
+  - name: install
+    image: busybox
+    command: ["/bin/sh","-c"]
+    args: ["wget -o /app/api/elastictrainer/src/umls.tar https://cloud.beuth-hochschule.de/index.php/s/rY3LEQRZ76pymGP", "tar xvzf umls.tar", "rm umls.tar"]
+    volumeMounts:
+    - name: umls-persistent
+      mountPath: "/app/api/elastictrainer/src"
+  volumes:
+  - name: umls-persistent
+    persistentVolumeClaim:
+      claimName: umls-persistent

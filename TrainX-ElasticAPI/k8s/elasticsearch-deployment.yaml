@@ -1,0 +1,42 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: elasticsearch
+  namespace: mmenke
+  labels:
+    app: elasticsearch
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: elasticsearch
+  template:
+    metadata:
+      labels:
+        app: elasticsearch
+    spec:
+      containers:
+      - name: trainer-search
+        image: docker.elastic.co/elasticsearch/elasticsearch:7.5.1
+        ports:
+        - containerPort: 9200
+        env:
+          - name: discovery.type
+            value: single-node
+        volumeMounts:
+        - mountPath: /var/lib/elasticsearch/data
+          name: esdata
+        resources:
+          requests:
+              cpu: "4"
+              memory: "64Gi"
+          limits:
+              cpu: "8"
+              memory: "64Gi"
+      restartPolicy: Always
+      volumes:
+      - name: esdata
+        persistentVolumeClaim:
+          claimName: esdata
+      imagePullSecrets:
+        - name:  private-registry-auth

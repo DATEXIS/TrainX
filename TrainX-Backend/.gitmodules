@@ -1,0 +1,3 @@
+[submodule "modules/TeXooPy"]
+	path = modules/TeXooPy
+	url = git@github.com:DATEXIS/TeXooPy.git

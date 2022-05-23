@@ -1,0 +1,6 @@
+__pycache__
+app/__pycache__
+venv
+.idea
+migrations/
+.DS_Store

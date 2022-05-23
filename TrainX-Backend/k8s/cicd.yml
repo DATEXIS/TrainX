@@ -1,0 +1,52 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: trainer-backend-cicd
+  namespace: datexis
+  labels:
+    app: trainer-backend-cicd
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: trainer-backend-cicd
+  strategy:
+    type: Recreate
+  template:
+    metadata:
+      labels:
+        app: trainer-backend-cicd
+    spec:
+      initContainers:
+        - name: volume-mount-hack
+          image: busybox
+          command: ["sh", "-c", "chmod -R 777 /tmp/trainer-backend-cicd"]
+          volumeMounts:
+          - name: work
+            mountPath: "/tmp/trainer-backend-cicd"
+      containers:
+      - name: github-runner
+        image: tcardonne/github-runner
+        securityContext:
+          privileged: true
+        env:
+        - name: RUNNER_NAME
+          value: "trainer-backend-cicd"
+        - name: RUNNER_TOKEN
+          value: "AAJ7Q67JJPQKQZX3AZRW5Q27IY7TK"
+        - name: RUNNER_REPOSITORY_URL
+          value: "https://github.com/DATEXIS/TraiNER-Backend"
+        - name: RUNNER_WORK_DIRECTORY
+          value: "/tmp/trainer-backend-cicd"
+        volumeMounts:
+        - name: work
+          mountPath: "/tmp/trainer-backend-cicd"
+        - name: dockersock
+          mountPath: "/var/run/docker.sock"
+      volumes:
+      - name: work
+        hostPath:
+          path: "/tmp/trainer-backend-cicd"
+      - name: dockersock
+        hostPath:
+          path: "/var/run/docker.sock"

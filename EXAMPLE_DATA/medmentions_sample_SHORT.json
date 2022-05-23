@@ -1,0 +1,29 @@
+{
+  "name": "medmentions_st21pv_train",
+  "language": "en",
+  "documents": [
+    {
+      "begin": 0,
+      "length": 1650,
+      "text": "An S116R Phosphorylation Site Mutation in Human Fibroblast Growth Factor-1 Differentially Affects Mitogenic and Glucose-Lowering Activities\nFibroblast growth factor-1 (FGF-1), a potent human mitogen and insulin sensitizer, signals through both tyrosine kinase receptor -mediated autocrine / paracrine pathways as well as a nuclear intracrine pathway. Phosphorylation of FGF-1 at serine 116 (S116) has been proposed to regulate intracrine signaling. Position S116 is located within a \u223c17 amino acid C-terminal loop that contains a rich set of functional determinants including heparin \u2216 heparan sulfate affinity, thiol reactivity, nuclear localization, pharmacokinetics, functional half-life, nuclear ligand affinity, stability, and structural dynamics. Mutational targeting of specific functionality in this region without perturbing other functional determinants is a design challenge. S116R is a non-phosphorylatable variant present in bovine FGF-1 and other members of the human FGF family. We show that the S116R mutation in human FGF-1 is accommodated with no perturbation of biophysical or structural properties, and is therefore an attractive mutation with which to elucidate the functional role of phosphorylation. Characterization of S116R shows reduction in NIH 3T3 fibroblast mitogenic stimulation, increase in fibroblast growth factor receptor-1c activation, and prolonged duration of glucose lowering in ob/ob hyperglycemic mice. A novel FGF-1 / fibroblast growth factor receptor-1c dimerization interaction combined with non-phosphorylatable intracrine signaling is hypothesized to be responsible for these observed functional effects.\n",
+      "id": "27773526",
+      "title": null,
+      "language": "en",
+      "type": null,
+      "annotations": [
+        {
+          "begin": 3,
+          "length": 26,
+          "text": "S116R Phosphorylation Site",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1519254",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        }
+      ],
+      "class": "Document"
+    }
+  ],
+  "queries": []
+}

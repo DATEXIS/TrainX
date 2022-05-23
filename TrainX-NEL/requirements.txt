@@ -1,0 +1,13 @@
+ujson
+werkzeug
+waitress
+flask
+torch
+tqdm
+transformers>=3.5.0,<=3.5.1
+flair==0.6.1
+git+https://github.com/DATEXIS/texoopy.git
+tensorboardX
+faiss-cpu
+ray
+pandas

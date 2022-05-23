@@ -1,0 +1,5337 @@
+{
+  "name": "medmentions_st21pv_train",
+  "language": "en",
+  "documents": [
+    {
+      "begin": 0,
+      "length": 1650,
+      "text": "An S116R Phosphorylation Site Mutation in Human Fibroblast Growth Factor-1 Differentially Affects Mitogenic and Glucose-Lowering Activities\nFibroblast growth factor-1 (FGF-1), a potent human mitogen and insulin sensitizer, signals through both tyrosine kinase receptor -mediated autocrine / paracrine pathways as well as a nuclear intracrine pathway. Phosphorylation of FGF-1 at serine 116 (S116) has been proposed to regulate intracrine signaling. Position S116 is located within a \u223c17 amino acid C-terminal loop that contains a rich set of functional determinants including heparin \u2216 heparan sulfate affinity, thiol reactivity, nuclear localization, pharmacokinetics, functional half-life, nuclear ligand affinity, stability, and structural dynamics. Mutational targeting of specific functionality in this region without perturbing other functional determinants is a design challenge. S116R is a non-phosphorylatable variant present in bovine FGF-1 and other members of the human FGF family. We show that the S116R mutation in human FGF-1 is accommodated with no perturbation of biophysical or structural properties, and is therefore an attractive mutation with which to elucidate the functional role of phosphorylation. Characterization of S116R shows reduction in NIH 3T3 fibroblast mitogenic stimulation, increase in fibroblast growth factor receptor-1c activation, and prolonged duration of glucose lowering in ob/ob hyperglycemic mice. A novel FGF-1 / fibroblast growth factor receptor-1c dimerization interaction combined with non-phosphorylatable intracrine signaling is hypothesized to be responsible for these observed functional effects.\n",
+      "id": "27773526",
+      "title": null,
+      "language": "en",
+      "type": null,
+      "annotations": [
+        {
+          "begin": 3,
+          "length": 26,
+          "text": "S116R Phosphorylation Site",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1519254",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 30,
+          "length": 8,
+          "text": "Mutation",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0026882",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 42,
+          "length": 5,
+          "text": "Human",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0086418",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 48,
+          "length": 26,
+          "text": "Fibroblast Growth Factor-1",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0079349",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 98,
+          "length": 9,
+          "text": "Mitogenic",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1752930",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 112,
+          "length": 27,
+          "text": "Glucose-Lowering Activities",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0860801",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 140,
+          "length": 26,
+          "text": "Fibroblast growth factor-1",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0079349",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 168,
+          "length": 5,
+          "text": "FGF-1",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0079349",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 185,
+          "length": 5,
+          "text": "human",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0086418",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 191,
+          "length": 7,
+          "text": "mitogen",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0018284",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 203,
+          "length": 7,
+          "text": "insulin",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0021641",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 223,
+          "length": 7,
+          "text": "signals",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0037080",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 244,
+          "length": 24,
+          "text": "tyrosine kinase receptor",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0206364",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 279,
+          "length": 9,
+          "text": "autocrine",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0525010",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 323,
+          "length": 7,
+          "text": "nuclear",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0521447",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 331,
+          "length": 18,
+          "text": "intracrine pathway",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1154545",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 351,
+          "length": 15,
+          "text": "Phosphorylation",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0031715",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 370,
+          "length": 5,
+          "text": "FGF-1",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0079349",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 379,
+          "length": 10,
+          "text": "serine 116",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0036720",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 391,
+          "length": 4,
+          "text": "S116",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0036720",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 418,
+          "length": 8,
+          "text": "regulate",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C3158094",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 427,
+          "length": 20,
+          "text": "intracrine signaling",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1154545",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 458,
+          "length": 4,
+          "text": "S116",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0036720",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 487,
+          "length": 26,
+          "text": "amino acid C-terminal loop",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1707271",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 542,
+          "length": 23,
+          "text": "functional determinants",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0574031",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 576,
+          "length": 7,
+          "text": "heparin",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0019134",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 586,
+          "length": 15,
+          "text": "heparan sulfate",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0019143",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 612,
+          "length": 5,
+          "text": "thiol",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0038734",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 630,
+          "length": 20,
+          "text": "nuclear localization",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0525021",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 692,
+          "length": 7,
+          "text": "nuclear",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0521447",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 700,
+          "length": 6,
+          "text": "ligand",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0023688",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 732,
+          "length": 19,
+          "text": "structural dynamics",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0596957",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 753,
+          "length": 10,
+          "text": "Mutational",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0026882",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 840,
+          "length": 23,
+          "text": "functional determinants",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0574031",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 887,
+          "length": 5,
+          "text": "S116R",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0036720",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 898,
+          "length": 20,
+          "text": "non-phosphorylatable",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0243095",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 938,
+          "length": 6,
+          "text": "bovine",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C3667982",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 945,
+          "length": 5,
+          "text": "FGF-1",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0079349",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 976,
+          "length": 5,
+          "text": "human",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0086418",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 982,
+          "length": 10,
+          "text": "FGF family",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0016026",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1011,
+          "length": 14,
+          "text": "S116R mutation",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0026882",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1029,
+          "length": 5,
+          "text": "human",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0086418",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1035,
+          "length": 5,
+          "text": "FGF-1",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0079349",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1096,
+          "length": 10,
+          "text": "structural",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0026383",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1150,
+          "length": 8,
+          "text": "mutation",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0026882",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1206,
+          "length": 15,
+          "text": "phosphorylation",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0031715",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1243,
+          "length": 5,
+          "text": "S116R",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0036720",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1268,
+          "length": 7,
+          "text": "NIH 3T3",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1257739",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1276,
+          "length": 10,
+          "text": "fibroblast",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0016030",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1287,
+          "length": 21,
+          "text": "mitogenic stimulation",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1752930",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1322,
+          "length": 36,
+          "text": "fibroblast growth factor receptor-1c",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0170936",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1359,
+          "length": 10,
+          "text": "activation",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1514758",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1397,
+          "length": 16,
+          "text": "glucose lowering",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0860801",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1417,
+          "length": 5,
+          "text": "ob/ob",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0028754",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1423,
+          "length": 13,
+          "text": "hyperglycemic",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0020456",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1437,
+          "length": 4,
+          "text": "mice",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0025929",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1451,
+          "length": 5,
+          "text": "FGF-1",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0079349",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1459,
+          "length": 36,
+          "text": "fibroblast growth factor receptor-1c",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0170936",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1535,
+          "length": 20,
+          "text": "non-phosphorylatable",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0243095",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1556,
+          "length": 20,
+          "text": "intracrine signaling",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1154545",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        }
+      ],
+      "class": "Document"
+    },
+    {
+      "begin": 0,
+      "length": 1560,
+      "text": "Improved hematopoietic differentiation of human pluripotent stem cells via estrogen receptor signaling pathway\nAside from its importance in reproduction, estrogen (E2) is known to regulate the proliferation and differentiation of hematopoietic stem cells in rodents. However, the regulatory role of E2 in human hematopoietic system has not been investigated. The purpose of this study is to investigate the effect of E2 on hematopoietic differentiation using human pluripotent stem cells (hPSCs). E2 improved hematopoietic differentiation of hPSCs via estrogen receptor alpha (ER-\u03b1)-dependent pathway. During hematopoietic differentiation of hPSCs, ER-\u03b1 is persistently maintained and hematopoietic phenotypes (CD34 and CD45) were exclusively detected in ER-\u03b1 positive cells. Interestingly, continuous E2 signaling is required to promote hematopoietic output from hPSCs. Supplementation of E2 or an ER-\u03b1 selective agonist significantly increased the number of hemangioblasts and hematopoietic progenitors, and subsequent erythropoiesis, whereas ER-\u03b2 selective agonist did not. Furthermore, ICI 182,780 (ER antagonist) completely abrogated the E2 -induced hematopoietic augmentation. Not only from hPSCs but also from human umbilical cord bloods, does E2 signaling potentiate hematopoietic development, suggesting universal function of E2 on hematopoiesis. Our study identifies E2 as positive regulator of human hematopoiesis and suggests that endocrine factors such as E2 influence the behavior of hematopoietic stem cells in various physiological conditions.\n",
+      "id": "27583127",
+      "title": null,
+      "language": "en",
+      "type": null,
+      "annotations": [
+        {
+          "begin": 0,
+          "length": 8,
+          "text": "Improved",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0184511",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 9,
+          "length": 29,
+          "text": "hematopoietic differentiation",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C2262995",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 42,
+          "length": 5,
+          "text": "human",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0086418",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 48,
+          "length": 22,
+          "text": "pluripotent stem cells",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0872076",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 75,
+          "length": 35,
+          "text": "estrogen receptor signaling pathway",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1155500",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 140,
+          "length": 12,
+          "text": "reproduction",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0035150",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 154,
+          "length": 8,
+          "text": "estrogen",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0014939",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 164,
+          "length": 2,
+          "text": "E2",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0014939",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 211,
+          "length": 43,
+          "text": "differentiation of hematopoietic stem cells",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C2262995",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 258,
+          "length": 7,
+          "text": "rodents",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0035804",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 299,
+          "length": 2,
+          "text": "E2",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0014939",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 305,
+          "length": 5,
+          "text": "human",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0086418",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 311,
+          "length": 20,
+          "text": "hematopoietic system",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0018957",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 417,
+          "length": 2,
+          "text": "E2",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0014939",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 423,
+          "length": 29,
+          "text": "hematopoietic differentiation",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C2262995",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 459,
+          "length": 28,
+          "text": "human pluripotent stem cells",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0872076",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 489,
+          "length": 5,
+          "text": "hPSCs",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0872076",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 497,
+          "length": 2,
+          "text": "E2",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0014939",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 500,
+          "length": 8,
+          "text": "improved",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0184511",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 509,
+          "length": 29,
+          "text": "hematopoietic differentiation",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C2262995",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 542,
+          "length": 5,
+          "text": "hPSCs",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0872076",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 552,
+          "length": 23,
+          "text": "estrogen receptor alpha",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0665341",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 552,
+          "length": 48,
+          "text": "estrogen receptor alpha (ER-\u03b1)-dependent pathway",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1155500",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 577,
+          "length": 4,
+          "text": "ER-\u03b1",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0665341",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 609,
+          "length": 29,
+          "text": "hematopoietic differentiation",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C2262995",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 642,
+          "length": 5,
+          "text": "hPSCs",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0872076",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 649,
+          "length": 4,
+          "text": "ER-\u03b1",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0665341",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 711,
+          "length": 4,
+          "text": "CD34",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0054953",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 720,
+          "length": 4,
+          "text": "CD45",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0054961",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 743,
+          "length": 8,
+          "text": "detected",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0442726",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 755,
+          "length": 19,
+          "text": "ER-\u03b1 positive cells",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0007634",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 802,
+          "length": 2,
+          "text": "E2",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0014939",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 805,
+          "length": 9,
+          "text": "signaling",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0037080",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 864,
+          "length": 5,
+          "text": "hPSCs",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0872076",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 871,
+          "length": 15,
+          "text": "Supplementation",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0087111",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 890,
+          "length": 2,
+          "text": "E2",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0014939",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 899,
+          "length": 22,
+          "text": "ER-\u03b1 selective agonist",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C2987634",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 922,
+          "length": 23,
+          "text": "significantly increased",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0243095",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 960,
+          "length": 14,
+          "text": "hemangioblasts",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C2350248",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 979,
+          "length": 25,
+          "text": "hematopoietic progenitors",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C2350248",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1021,
+          "length": 14,
+          "text": "erythropoiesis",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0014819",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1045,
+          "length": 4,
+          "text": "ER-\u03b2",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0529099",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1045,
+          "length": 22,
+          "text": "ER-\u03b2 selective agonist",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C2987634",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1090,
+          "length": 11,
+          "text": "ICI 182,780",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1123005",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1103,
+          "length": 13,
+          "text": "ER antagonist",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C2267020",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1118,
+          "length": 20,
+          "text": "completely abrogated",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0243095",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1143,
+          "length": 2,
+          "text": "E2",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0014939",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1169,
+          "length": 12,
+          "text": "augmentation",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1293122",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1197,
+          "length": 5,
+          "text": "hPSCs",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0872076",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1217,
+          "length": 5,
+          "text": "human",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0086418",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1223,
+          "length": 21,
+          "text": "umbilical cord bloods",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0162371",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1251,
+          "length": 2,
+          "text": "E2",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0014939",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1254,
+          "length": 9,
+          "text": "signaling",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0037080",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1275,
+          "length": 25,
+          "text": "hematopoietic development",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C2610238",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1335,
+          "length": 2,
+          "text": "E2",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0014939",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1341,
+          "length": 13,
+          "text": "hematopoiesis",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0018951",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1377,
+          "length": 2,
+          "text": "E2",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0014939",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1405,
+          "length": 5,
+          "text": "human",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0086418",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1411,
+          "length": 13,
+          "text": "hematopoiesis",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0018951",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1469,
+          "length": 2,
+          "text": "E2",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0014939",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1498,
+          "length": 24,
+          "text": "hematopoietic stem cells",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0018956",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1534,
+          "length": 24,
+          "text": "physiological conditions",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0031843",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        }
+      ],
+      "class": "Document"
+    },
+    {
+      "begin": 0,
+      "length": 1030,
+      "text": "Young Children See a Single Action and Infer a Social Norm\nHuman social life depends heavily on social norms that prescribe and proscribe specific actions. Typically, young children learn social norms from adult instruction. In the work reported here, we showed that this is not the whole story: Three- year-old children are promiscuous normativists. In other words, they spontaneously inferred the presence of social norms even when an adult had done nothing to indicate such a norm in either language or behavior. And children of this age even went so far as to enforce these self-inferred norms when third parties \"broke\" them. These results suggest that children do not just passively acquire social norms from adult behavior and instruction; rather, they have a natural and proactive tendency to go from \"is\" to \"ought.\" That is, children go from observed actions to prescribed actions and do not perceive them simply as guidelines for their own behavior but rather as objective normative rules applying to everyone equally.\n",
+      "id": "27634004",
+      "title": null,
+      "language": "en",
+      "type": null,
+      "annotations": [
+        {
+          "begin": 39,
+          "length": 5,
+          "text": "Infer",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0679201",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 59,
+          "length": 5,
+          "text": "Human",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0086418",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 212,
+          "length": 11,
+          "text": "instruction",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1442085",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 337,
+          "length": 12,
+          "text": "normativists",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1257890",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 386,
+          "length": 8,
+          "text": "inferred",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0679201",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 578,
+          "length": 13,
+          "text": "self-inferred",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0679201",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 734,
+          "length": 11,
+          "text": "instruction",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1442085",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 926,
+          "length": 10,
+          "text": "guidelines",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0162791",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 984,
+          "length": 15,
+          "text": "normative rules",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0870077",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        }
+      ],
+      "class": "Document"
+    },
+    {
+      "begin": 0,
+      "length": 1179,
+      "text": "Bioactivity and electrochemical behavior of hydroxyapatite - silicon - multi walled carbon nano-tubes composite coatings synthesized by EPD on NiTi alloys in simulated body fluid\nIn order to improve the surface bioactivity of NiTi bone implant and corrosion resistance, hydroxyapatite coating with addition of 20wt% silicon, 1wt% multi walled carbon nano-tubes and both of them were deposited on a NiTi substrate using a cathodic electrophoretic method. The apatite formation ability was estimated using immersion test in the simulated body fluid for 10 days. The SEM images of the surface of coatings after immersion in simulated body fluid show that the presence of silicon in the hydroxyapatite coatings accelerates in vitro growth of apatite layer on the coatings. The Open-circuit potential and electrochemical impedance spectroscopy were measured to evaluate the electrochemical behavior of the coatings in the simulated body fluid at 37\u00b0C. The results indicate that the compact structure of hydroxyapatite -20wt% silicon and hydroxyapatite -20wt% silicon -1wt% multi walled carbon nano-tubes coatings could efficiently increase the corrosion resistance of NiTi substrate.\n",
+      "id": "27987734",
+      "title": null,
+      "language": "en",
+      "type": null,
+      "annotations": [
+        {
+          "begin": 44,
+          "length": 14,
+          "text": "hydroxyapatite",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0020326",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 61,
+          "length": 7,
+          "text": "silicon",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0037107",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 71,
+          "length": 30,
+          "text": "multi walled carbon nano-tubes",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1138408",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 143,
+          "length": 4,
+          "text": "NiTi",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0076736",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 148,
+          "length": 6,
+          "text": "alloys",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0002154",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 158,
+          "length": 20,
+          "text": "simulated body fluid",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0005889",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 203,
+          "length": 7,
+          "text": "surface",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0205148",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 226,
+          "length": 4,
+          "text": "NiTi",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0076736",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 231,
+          "length": 12,
+          "text": "bone implant",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0021102",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 270,
+          "length": 14,
+          "text": "hydroxyapatite",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0020326",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 316,
+          "length": 7,
+          "text": "silicon",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0037107",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 330,
+          "length": 30,
+          "text": "multi walled carbon nano-tubes",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1138408",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 398,
+          "length": 4,
+          "text": "NiTi",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0076736",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 458,
+          "length": 7,
+          "text": "apatite",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0003522",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 504,
+          "length": 14,
+          "text": "immersion test",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0022885",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 526,
+          "length": 20,
+          "text": "simulated body fluid",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0005889",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 564,
+          "length": 3,
+          "text": "SEM",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0026020",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 568,
+          "length": 6,
+          "text": "images",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1704922",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 582,
+          "length": 7,
+          "text": "surface",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0205148",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 608,
+          "length": 9,
+          "text": "immersion",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0022885",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 621,
+          "length": 20,
+          "text": "simulated body fluid",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0005889",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 668,
+          "length": 7,
+          "text": "silicon",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0037107",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 683,
+          "length": 14,
+          "text": "hydroxyapatite",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0020326",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 738,
+          "length": 7,
+          "text": "apatite",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0003522",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 800,
+          "length": 38,
+          "text": "electrochemical impedance spectroscopy",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C2936361",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 917,
+          "length": 20,
+          "text": "simulated body fluid",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0005889",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 977,
+          "length": 17,
+          "text": "compact structure",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0678594",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 998,
+          "length": 14,
+          "text": "hydroxyapatite",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0020326",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1020,
+          "length": 7,
+          "text": "silicon",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0037107",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1032,
+          "length": 14,
+          "text": "hydroxyapatite",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0020326",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1054,
+          "length": 7,
+          "text": "silicon",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0037107",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1068,
+          "length": 30,
+          "text": "multi walled carbon nano-tubes",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1138408",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1163,
+          "length": 4,
+          "text": "NiTi",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0076736",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        }
+      ],
+      "class": "Document"
+    },
+    {
+      "begin": 0,
+      "length": 1643,
+      "text": "Clinical course and therapeutic outcomes of operatively and non-operatively managed patients with denosumab -related osteonecrosis of the jaw (DRONJ)\nDetails regarding risk factors, onset, and outcomes for denosumab -related osteonecrosis (DRONJ) are sparse. This study examines the clinical characteristics and operative and non-operative therapeutic outcomes in patients with DRONJ not previously exposed to other antiresorptives. A retrospective medical record review was conducted, and data were collected, including clinical findings, management, healing outcomes, and radiologic, histologic, and micro-computed tomography (CT) analyses. Seventeen patients were treated with denosumab, with 14.1 \u00b1 8.3 doses before DRONJ onset. The majority of lesions were observed at sites of dental prostheses (41%) and dental extractions (35%). Sixteen patients were managed non-operatively (10/16) or operatively (6/16) with either major (5/6) or minor surgery (1/6) and included in the follow-up analysis. Complete healing was significant in patients treated with major surgery (80%) compared to the non-operative group (20%; p < 0.035). Denosumab was discontinued in 60% of non-operative patients and major surgery patients with no effect on healing. Histologic findings of 4 patients analyzed exhibited a decreased number of osteocyte lacunae, and micro-CT of 3 patients scanned revealed trabecular thickening. DRONJ lesions occurred mostly at sites of prostheses sores after a mean of 14 doses of denosumab. Major surgery demonstrated more complete healing than non-operative management, and denosumab cessation did not improve healing outcomes.\n",
+      "id": "28238559",
+      "title": null,
+      "language": "en",
+      "type": null,
+      "annotations": [
+        {
+          "begin": 44,
+          "length": 11,
+          "text": "operatively",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0543467",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 60,
+          "length": 15,
+          "text": "non-operatively",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0087111",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 98,
+          "length": 9,
+          "text": "denosumab",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1690432",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 117,
+          "length": 24,
+          "text": "osteonecrosis of the jaw",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C2902031",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 143,
+          "length": 5,
+          "text": "DRONJ",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C2902031",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 168,
+          "length": 12,
+          "text": "risk factors",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0035648",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 206,
+          "length": 9,
+          "text": "denosumab",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1690432",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 225,
+          "length": 13,
+          "text": "osteonecrosis",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C2902031",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 240,
+          "length": 5,
+          "text": "DRONJ",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C2902031",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 264,
+          "length": 5,
+          "text": "study",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C2603343",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 312,
+          "length": 9,
+          "text": "operative",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0543467",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 326,
+          "length": 13,
+          "text": "non-operative",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0087111",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 378,
+          "length": 5,
+          "text": "DRONJ",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C2902031",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 416,
+          "length": 15,
+          "text": "antiresorptives",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0521941",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 449,
+          "length": 21,
+          "text": "medical record review",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0730229",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 521,
+          "length": 17,
+          "text": "clinical findings",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0037088",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 540,
+          "length": 10,
+          "text": "management",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1516615",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 552,
+          "length": 7,
+          "text": "healing",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0043240",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 602,
+          "length": 25,
+          "text": "micro-computed tomography",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C2350281",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 629,
+          "length": 2,
+          "text": "CT",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C2350281",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 633,
+          "length": 8,
+          "text": "analyses",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0936012",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 667,
+          "length": 12,
+          "text": "treated with",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0332293",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 680,
+          "length": 9,
+          "text": "denosumab",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1690432",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 720,
+          "length": 5,
+          "text": "DRONJ",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C2902031",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 749,
+          "length": 7,
+          "text": "lesions",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0221198",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 783,
+          "length": 17,
+          "text": "dental prostheses",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0162686",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 811,
+          "length": 18,
+          "text": "dental extractions",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0040440",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 867,
+          "length": 15,
+          "text": "non-operatively",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0087111",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 894,
+          "length": 11,
+          "text": "operatively",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0543467",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 940,
+          "length": 13,
+          "text": "minor surgery",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0038904",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 980,
+          "length": 9,
+          "text": "follow-up",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1522577",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 990,
+          "length": 8,
+          "text": "analysis",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0936012",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1009,
+          "length": 7,
+          "text": "healing",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0043240",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1045,
+          "length": 12,
+          "text": "treated with",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0332293",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1094,
+          "length": 13,
+          "text": "non-operative",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0087111",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1132,
+          "length": 9,
+          "text": "Denosumab",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1690432",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1146,
+          "length": 12,
+          "text": "discontinued",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1444662",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1169,
+          "length": 13,
+          "text": "non-operative",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0087111",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1237,
+          "length": 7,
+          "text": "healing",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0043240",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1280,
+          "length": 8,
+          "text": "analyzed",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0936012",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1321,
+          "length": 17,
+          "text": "osteocyte lacunae",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1180103",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1344,
+          "length": 8,
+          "text": "micro-CT",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C2350281",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1367,
+          "length": 7,
+          "text": "scanned",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0441633",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1384,
+          "length": 10,
+          "text": "trabecular",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0222660",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1395,
+          "length": 10,
+          "text": "thickening",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0205400",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1407,
+          "length": 5,
+          "text": "DRONJ",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C2902031",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1413,
+          "length": 7,
+          "text": "lesions",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0221198",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1449,
+          "length": 10,
+          "text": "prostheses",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0175649",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1494,
+          "length": 9,
+          "text": "denosumab",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1690432",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1546,
+          "length": 7,
+          "text": "healing",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0043240",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1559,
+          "length": 24,
+          "text": "non-operative management",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0087111",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1589,
+          "length": 9,
+          "text": "denosumab",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1690432",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1625,
+          "length": 7,
+          "text": "healing",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0043240",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        }
+      ],
+      "class": "Document"
+    },
+    {
+      "begin": 0,
+      "length": 1179,
+      "text": "Metagenomic recovery of phage genomes of uncultured freshwater actinobacteria\nLow - GC Actinobacteria are among the most abundant and widespread microbes in freshwaters and have largely resisted all cultivation efforts. Consequently, their phages have remained totally unknown. In this work, we have used deep metagenomic sequencing to assemble eight complete genomes of the first tailed phages that infect freshwater Actinobacteria. Their genomes encode the actinobacterial - specific transcription factor whiB, frequently found in mycobacteriophages and also in phages infecting marine pelagic Actinobacteria. Its presence suggests a common and widespread strategy of modulation of host transcriptional machinery upon infection via this transcriptional switch. We present evidence that some whiB - carrying phages infect the acI lineage of Actinobacteria. At least one of them encodes the ADP-ribosylating component of the widespread bacterial AB toxins family (for example, clostridial toxin). We posit that the presence of this toxin reflects a 'trojan horse' strategy, providing protection at the population level to the abundant host microbes against eukaryotic predators.\n",
+      "id": "27505348",
+      "title": null,
+      "language": "en",
+      "type": null,
+      "annotations": [
+        {
+          "begin": 24,
+          "length": 5,
+          "text": "phage",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0004651",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 30,
+          "length": 7,
+          "text": "genomes",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0042720",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 63,
+          "length": 14,
+          "text": "actinobacteria",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1456432",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 87,
+          "length": 14,
+          "text": "Actinobacteria",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1456432",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 134,
+          "length": 10,
+          "text": "widespread",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0205391",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 199,
+          "length": 11,
+          "text": "cultivation",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C2242979",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 240,
+          "length": 6,
+          "text": "phages",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0004651",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 310,
+          "length": 22,
+          "text": "metagenomic sequencing",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0487717",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 360,
+          "length": 7,
+          "text": "genomes",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0042720",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 400,
+          "length": 6,
+          "text": "infect",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0439663",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 418,
+          "length": 14,
+          "text": "Actinobacteria",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1456432",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 440,
+          "length": 7,
+          "text": "genomes",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0042720",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 459,
+          "length": 15,
+          "text": "actinobacterial",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1456432",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 486,
+          "length": 25,
+          "text": "transcription factor whiB",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0040648",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 533,
+          "length": 18,
+          "text": "mycobacteriophages",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0026911",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 564,
+          "length": 6,
+          "text": "phages",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0004651",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 571,
+          "length": 9,
+          "text": "infecting",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0439663",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 581,
+          "length": 29,
+          "text": "marine pelagic Actinobacteria",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1023661",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 647,
+          "length": 10,
+          "text": "widespread",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0205391",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 670,
+          "length": 18,
+          "text": "modulation of host",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1154502",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 689,
+          "length": 25,
+          "text": "transcriptional machinery",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1519592",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 720,
+          "length": 9,
+          "text": "infection",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C3714514",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 739,
+          "length": 15,
+          "text": "transcriptional",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0040649",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 793,
+          "length": 4,
+          "text": "whiB",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0040648",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 809,
+          "length": 6,
+          "text": "phages",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0004651",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 816,
+          "length": 6,
+          "text": "infect",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0439663",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 827,
+          "length": 3,
+          "text": "acI",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1456432",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 842,
+          "length": 14,
+          "text": "Actinobacteria",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1456432",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 925,
+          "length": 10,
+          "text": "widespread",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0205391",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 936,
+          "length": 26,
+          "text": "bacterial AB toxins family",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0004630",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 977,
+          "length": 17,
+          "text": "clostridial toxin",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0086023",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1032,
+          "length": 5,
+          "text": "toxin",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0004630",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1102,
+          "length": 10,
+          "text": "population",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1257890",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1157,
+          "length": 20,
+          "text": "eukaryotic predators",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0684063",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        }
+      ],
+      "class": "Document"
+    },
+    {
+      "begin": 0,
+      "length": 1879,
+      "text": "Guidance signalling regulates leading edge behaviour during collective cell migration of cardiac cells in Drosophila\nCollective cell migration is the coordinated movement of cells, which organize tissues during morphogenesis, repair and some cancers. The motile cell membrane of the advancing front in collective cell migration is termed the Leading Edge. The embryonic development of the vertebrate and Drosophila hearts are both characterized by the coordinated medial migration of a bilateral cluster of mesodermal cells. In Drosophila, the cardioblasts form cohesive bilateral rows that migrate collectively as a unit towards the dorsal midline to form the dorsal vessel. We have characterized the collective cell migration of cardioblasts as an in vivo quantitative model to study the behaviour of the Leading Edge. We investigated whether guidance signalling through Slit and Netrin pathways plays a role in cell migration during heart development. Through time-lapse imaging and quantitative assessment of migratory behaviour of the cardioblasts in loss-of-function mutants, we demonstrate that both Slit and Netrin mediated signals are autonomously and concomitantly required to maximize migration velocity, filopodial and lamellipodial activities. Additionally, we show that another Slit and Netrin receptor, Dscam1, the role of which during heart development was previously unknown, is required for both normal migration of cardioblasts and luminal expansion. Leading edge behaviour analysis revealed a dosage dependent genetic interaction between Slit and Netrin receptors suggesting that downstream signalling through these receptors converge on a common output that increases leading edge activity of the cardioblasts. Finally, we found that guidance signalling maintains the balance between epithelial and mesenchymal characteristics of the migrating cardioblasts.\n",
+      "id": "27618756",
+      "title": null,
+      "language": "en",
+      "type": null,
+      "annotations": [
+        {
+          "begin": 0,
+          "length": 19,
+          "text": "Guidance signalling",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0037083",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 30,
+          "length": 12,
+          "text": "leading edge",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1621433",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 71,
+          "length": 14,
+          "text": "cell migration",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1622501",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 89,
+          "length": 13,
+          "text": "cardiac cells",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0920751",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 106,
+          "length": 10,
+          "text": "Drosophila",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0013138",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 128,
+          "length": 14,
+          "text": "cell migration",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1622501",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 162,
+          "length": 17,
+          "text": "movement of cells",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1621968",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 196,
+          "length": 7,
+          "text": "tissues",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0040300",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 211,
+          "length": 13,
+          "text": "morphogenesis",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0026559",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 226,
+          "length": 6,
+          "text": "repair",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0043240",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 242,
+          "length": 7,
+          "text": "cancers",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0006826",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 262,
+          "length": 13,
+          "text": "cell membrane",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0007603",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 313,
+          "length": 14,
+          "text": "cell migration",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1622501",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 342,
+          "length": 12,
+          "text": "Leading Edge",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1621433",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 360,
+          "length": 21,
+          "text": "embryonic development",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0013936",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 389,
+          "length": 10,
+          "text": "vertebrate",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0042567",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 404,
+          "length": 10,
+          "text": "Drosophila",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0013138",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 415,
+          "length": 6,
+          "text": "hearts",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0018787",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 464,
+          "length": 6,
+          "text": "medial",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0205098",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 471,
+          "length": 9,
+          "text": "migration",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1622501",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 486,
+          "length": 9,
+          "text": "bilateral",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0238767",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 496,
+          "length": 7,
+          "text": "cluster",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1179412",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 507,
+          "length": 16,
+          "text": "mesodermal cells",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1183499",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 528,
+          "length": 10,
+          "text": "Drosophila",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0013138",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 544,
+          "length": 12,
+          "text": "cardioblasts",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0007634",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 634,
+          "length": 14,
+          "text": "dorsal midline",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0230086",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 661,
+          "length": 6,
+          "text": "dorsal",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0205095",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 668,
+          "length": 6,
+          "text": "vessel",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0005847",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 713,
+          "length": 30,
+          "text": "cell migration of cardioblasts",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C2753658",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 750,
+          "length": 7,
+          "text": "in vivo",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1515655",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 780,
+          "length": 5,
+          "text": "study",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C2603343",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 807,
+          "length": 12,
+          "text": "Leading Edge",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1621433",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 845,
+          "length": 19,
+          "text": "guidance signalling",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0037083",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 873,
+          "length": 4,
+          "text": "Slit",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0084569",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 882,
+          "length": 15,
+          "text": "Netrin pathways",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C3271680",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 914,
+          "length": 14,
+          "text": "cell migration",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1622501",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 936,
+          "length": 17,
+          "text": "heart development",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1749797",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 963,
+          "length": 18,
+          "text": "time-lapse imaging",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C2936618",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1040,
+          "length": 12,
+          "text": "cardioblasts",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0007634",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1056,
+          "length": 16,
+          "text": "loss-of-function",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0243095",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1073,
+          "length": 7,
+          "text": "mutants",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0596988",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1107,
+          "length": 4,
+          "text": "Slit",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0084569",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1116,
+          "length": 23,
+          "text": "Netrin mediated signals",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C3271680",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1196,
+          "length": 18,
+          "text": "migration velocity",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1622501",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1216,
+          "length": 10,
+          "text": "filopodial",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0600315",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1231,
+          "length": 13,
+          "text": "lamellipodial",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0230628",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1292,
+          "length": 4,
+          "text": "Slit",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0084569",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1301,
+          "length": 15,
+          "text": "Netrin receptor",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0538359",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1318,
+          "length": 6,
+          "text": "Dscam1",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C3884027",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1351,
+          "length": 17,
+          "text": "heart development",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1749797",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1421,
+          "length": 25,
+          "text": "migration of cardioblasts",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C2753658",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1451,
+          "length": 7,
+          "text": "luminal",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0524462",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1459,
+          "length": 9,
+          "text": "expansion",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0007595",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1470,
+          "length": 12,
+          "text": "Leading edge",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1621433",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1493,
+          "length": 8,
+          "text": "analysis",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0936012",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1558,
+          "length": 4,
+          "text": "Slit",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0084569",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1567,
+          "length": 16,
+          "text": "Netrin receptors",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0538359",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1600,
+          "length": 10,
+          "text": "downstream",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0522506",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1611,
+          "length": 10,
+          "text": "signalling",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C3537152",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1636,
+          "length": 9,
+          "text": "receptors",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0597357",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1689,
+          "length": 12,
+          "text": "leading edge",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1621433",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1718,
+          "length": 12,
+          "text": "cardioblasts",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0007634",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1755,
+          "length": 19,
+          "text": "guidance signalling",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0037083",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1805,
+          "length": 10,
+          "text": "epithelial",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0014597",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1820,
+          "length": 11,
+          "text": "mesenchymal",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1257975",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1855,
+          "length": 22,
+          "text": "migrating cardioblasts",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C2753658",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        }
+      ],
+      "class": "Document"
+    },
+    {
+      "begin": 0,
+      "length": 1137,
+      "text": "Coordinated Asthma Program Improves Asthma Outcomes in High-Risk Children\nInnovative approaches within primary care are needed to reduce fragmented care, increase continuity of care, and improve asthma outcomes in children with asthma. Our objective was to assess the impact of coordinated team -based asthma care on unplanned asthma -related health care utilization. A multidisciplinary asthma team was developed to provide coordinated care to high-risk asthma patients. Patients received an in-depth diagnostic and family needs assessment, asthma education, and coordinated referral to social and community services. Over a 2- year period, 141 patients were followed. At both 1 and 2 years postintervention, there was a significant decrease from preintervention rates in urgent care visits (40%, P = .002; 50%, P < .0001), emergency department visits (63%, P < .0001; 70%, P < .0001), and inpatient hospitalization (69%, P = .002; 54%, P = .04). Our coordinated asthma care program was associated with a reduction in urgent care visits, emergency department visits, and inpatient hospitalizations among high-risk children with asthma.\n",
+      "id": "28436286",
+      "title": null,
+      "language": "en",
+      "type": null,
+      "annotations": [
+        {
+          "begin": 12,
+          "length": 6,
+          "text": "Asthma",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0004096",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 19,
+          "length": 7,
+          "text": "Program",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0043113",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 27,
+          "length": 8,
+          "text": "Improves",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0184511",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 36,
+          "length": 6,
+          "text": "Asthma",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0004096",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 43,
+          "length": 8,
+          "text": "Outcomes",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0679250",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 55,
+          "length": 18,
+          "text": "High-Risk Children",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0419437",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 103,
+          "length": 12,
+          "text": "primary care",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0033137",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 148,
+          "length": 4,
+          "text": "care",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0086388",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 163,
+          "length": 18,
+          "text": "continuity of care",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0009853",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 195,
+          "length": 6,
+          "text": "asthma",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0004096",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 202,
+          "length": 8,
+          "text": "outcomes",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0679250",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 228,
+          "length": 6,
+          "text": "asthma",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0004096",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 240,
+          "length": 9,
+          "text": "objective",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0018017",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 290,
+          "length": 4,
+          "text": "team",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0086390",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 302,
+          "length": 11,
+          "text": "asthma care",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1318955",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 327,
+          "length": 6,
+          "text": "asthma",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0004096",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 343,
+          "length": 23,
+          "text": "health care utilization",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0030672",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 370,
+          "length": 17,
+          "text": "multidisciplinary",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1659155",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 388,
+          "length": 6,
+          "text": "asthma",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0004096",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 395,
+          "length": 4,
+          "text": "team",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0086390",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 455,
+          "length": 6,
+          "text": "asthma",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0004096",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 493,
+          "length": 19,
+          "text": "in-depth diagnostic",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0431080",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 517,
+          "length": 23,
+          "text": "family needs assessment",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C4041190",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 542,
+          "length": 16,
+          "text": "asthma education",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1679754",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 576,
+          "length": 11,
+          "text": "referral to",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C2585021",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 588,
+          "length": 6,
+          "text": "social",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1519393",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 599,
+          "length": 18,
+          "text": "community services",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0009472",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 692,
+          "length": 16,
+          "text": "postintervention",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C2347647",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 748,
+          "length": 15,
+          "text": "preintervention",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0886296",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 825,
+          "length": 27,
+          "text": "emergency department visits",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0586082",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 901,
+          "length": 15,
+          "text": "hospitalization",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0019993",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 964,
+          "length": 11,
+          "text": "asthma care",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1318955",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 976,
+          "length": 7,
+          "text": "program",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0043113",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1039,
+          "length": 27,
+          "text": "emergency department visits",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0586082",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1082,
+          "length": 16,
+          "text": "hospitalizations",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0019993",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1105,
+          "length": 18,
+          "text": "high-risk children",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0419437",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1129,
+          "length": 6,
+          "text": "asthma",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0004096",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        }
+      ],
+      "class": "Document"
+    },
+    {
+      "begin": 0,
+      "length": 2393,
+      "text": "Hypoxia / reoxygenation -induced HMGB1 translocation and release promotes islet proinflammatory cytokine production and early islet graft failure through TLRs signaling\nHigh-mobility group box 1 (HMGB1) translocation and release, which is involved in several tissue types of ischemia-reperfusion injuries, activate innate immunity by inducing proinflammatory cytokine production through its interaction with toll-like receptors (TLRs). Our objective was to determine the role of HMGB1 and the degree of activation of TLR -related signal transduction pathways in hypoxia / reoxygenation (H / R)-induced proinflammatory cytokine production and intra-islet graft inflammation. After islets are exposed to hypoxia - reoxygenation for 24h, TLR2 / 4 expression and TLR -mediated signaling was up-regulated in islets, and HMGB1 was translocated from the nucleus to the cytoplasm and released to the extracellular space. With H / R exposure, proinflammatory cytokine production (IL-1\u03b2 and TNF-\u03b1) and islet injury were significantly increased, and these effects depend on TLR2 / 4 signaling pathways. Exogenous HMGB1 also induces islet inflammation and increases the phosphorylation of STAT3, p38 and I\u03baB\u03b1 in wild-type islets. TLR2 deficiency in TLR2 - KO islets resulted in the inhibition of IL-1\u03b2 production and STAT3 / p38 phosphorylation after HMGB1 exposure. TLR4 deficiency in TLR4 - KO islets resulted in the inhibition of TNF-\u03b1 production and I\u03baB\u03b1 phosphorylation after HMGB1 exposure. Pre-incubation of the STAT3, p38, or NF-\u03baB inhibitors significantly inhibited HMGB1 -induced IL-1\u03b2 or TNF-\u03b1 production in islets, but the effect of HMGB1 or H / R -induced islet injury was not counteracted by a separate treatment of the STAT3 inhibitor, p38 inhibitor, or NF-\u03baB inhibitors. HMGB1 inhibition by ethyl pyruvate or blockade by neutralizing antibodies significantly decreased the phosphorylation of STAT3, p38 and I\u03baB\u03b1, the production of IL-1\u03b2 and TNF-\u03b1, and the islet injury in wild-type islets after exposure to H / R and significantly improved early islet graft failure. Thus, our results suggest that HMGB1 released from H / R induced islets works in an autocrine manner to up-regulate STAT or p38 and augment IL-1\u03b2 production via TLR2, and up-regulate NF-\u03baB and augment TNF-\u03b1 production via TLR4 in intra-islet, which are associated with H / R -induced islet injury and early graft failure.\n",
+      "id": "27838489",
+      "title": null,
+      "language": "en",
+      "type": null,
+      "annotations": [
+        {
+          "begin": 0,
+          "length": 7,
+          "text": "Hypoxia",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0242184",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 10,
+          "length": 13,
+          "text": "reoxygenation",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0087111",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 33,
+          "length": 5,
+          "text": "HMGB1",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0019796",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 39,
+          "length": 13,
+          "text": "translocation",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0599893",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 74,
+          "length": 5,
+          "text": "islet",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0022131",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 80,
+          "length": 35,
+          "text": "proinflammatory cytokine production",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1327413",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 126,
+          "length": 5,
+          "text": "islet",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0022131",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 132,
+          "length": 13,
+          "text": "graft failure",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1262018",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 154,
+          "length": 4,
+          "text": "TLRs",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0670896",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 159,
+          "length": 9,
+          "text": "signaling",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1514762",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 169,
+          "length": 25,
+          "text": "High-mobility group box 1",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0019796",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 196,
+          "length": 5,
+          "text": "HMGB1",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0019796",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 203,
+          "length": 13,
+          "text": "translocation",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0599893",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 259,
+          "length": 6,
+          "text": "tissue",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0040300",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 275,
+          "length": 29,
+          "text": "ischemia-reperfusion injuries",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0035126",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 343,
+          "length": 35,
+          "text": "proinflammatory cytokine production",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1327413",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 408,
+          "length": 19,
+          "text": "toll-like receptors",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0670896",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 429,
+          "length": 4,
+          "text": "TLRs",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0670896",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 479,
+          "length": 5,
+          "text": "HMGB1",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0019796",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 517,
+          "length": 3,
+          "text": "TLR",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0670896",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 530,
+          "length": 28,
+          "text": "signal transduction pathways",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0086982",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 562,
+          "length": 7,
+          "text": "hypoxia",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0242184",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 572,
+          "length": 13,
+          "text": "reoxygenation",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0087111",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 587,
+          "length": 1,
+          "text": "H",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0242184",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 591,
+          "length": 1,
+          "text": "R",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0087111",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 602,
+          "length": 35,
+          "text": "proinflammatory cytokine production",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1327413",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 642,
+          "length": 11,
+          "text": "intra-islet",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0022131",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 654,
+          "length": 5,
+          "text": "graft",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0181074",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 660,
+          "length": 12,
+          "text": "inflammation",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0021368",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 680,
+          "length": 6,
+          "text": "islets",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0022131",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 702,
+          "length": 7,
+          "text": "hypoxia",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0242184",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 712,
+          "length": 13,
+          "text": "reoxygenation",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0087111",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 735,
+          "length": 4,
+          "text": "TLR2",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0754728",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 742,
+          "length": 1,
+          "text": "4",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1411976",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 744,
+          "length": 10,
+          "text": "expression",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1171362",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 759,
+          "length": 3,
+          "text": "TLR",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0670896",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 773,
+          "length": 9,
+          "text": "signaling",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1514762",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 787,
+          "length": 12,
+          "text": "up-regulated",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0041904",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 803,
+          "length": 6,
+          "text": "islets",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0022131",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 815,
+          "length": 5,
+          "text": "HMGB1",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0019796",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 825,
+          "length": 12,
+          "text": "translocated",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0599893",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 847,
+          "length": 7,
+          "text": "nucleus",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0007610",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 862,
+          "length": 9,
+          "text": "cytoplasm",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0010834",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 892,
+          "length": 19,
+          "text": "extracellular space",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0015352",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 918,
+          "length": 1,
+          "text": "H",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0242184",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 922,
+          "length": 1,
+          "text": "R",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0087111",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 934,
+          "length": 35,
+          "text": "proinflammatory cytokine production",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1327413",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 971,
+          "length": 5,
+          "text": "IL-1\u03b2",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0021753",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 981,
+          "length": 5,
+          "text": "TNF-\u03b1",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1456820",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 992,
+          "length": 5,
+          "text": "islet",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0022131",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 998,
+          "length": 6,
+          "text": "injury",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0178314",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1063,
+          "length": 4,
+          "text": "TLR2",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0754728",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1070,
+          "length": 1,
+          "text": "4",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1411976",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1072,
+          "length": 18,
+          "text": "signaling pathways",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0037080",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1102,
+          "length": 5,
+          "text": "HMGB1",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0019796",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1121,
+          "length": 5,
+          "text": "islet",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0022131",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1127,
+          "length": 12,
+          "text": "inflammation",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0021368",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1158,
+          "length": 15,
+          "text": "phosphorylation",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1158886",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1177,
+          "length": 5,
+          "text": "STAT3",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0253050",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1184,
+          "length": 3,
+          "text": "p38",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1120843",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1192,
+          "length": 4,
+          "text": "I\u03baB\u03b1",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0126732",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1210,
+          "length": 6,
+          "text": "islets",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0022131",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1218,
+          "length": 4,
+          "text": "TLR2",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0754728",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1237,
+          "length": 4,
+          "text": "TLR2",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1336634",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1244,
+          "length": 2,
+          "text": "KO",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0599772",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1247,
+          "length": 6,
+          "text": "islets",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0022131",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1284,
+          "length": 5,
+          "text": "IL-1\u03b2",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0021753",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1290,
+          "length": 10,
+          "text": "production",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0597295",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1305,
+          "length": 5,
+          "text": "STAT3",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0253050",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1313,
+          "length": 3,
+          "text": "p38",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1120843",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1317,
+          "length": 15,
+          "text": "phosphorylation",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1158886",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1339,
+          "length": 5,
+          "text": "HMGB1",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0019796",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1355,
+          "length": 4,
+          "text": "TLR4",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1411976",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1374,
+          "length": 4,
+          "text": "TLR4",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1336636",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1381,
+          "length": 2,
+          "text": "KO",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0599772",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1384,
+          "length": 6,
+          "text": "islets",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0022131",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1421,
+          "length": 5,
+          "text": "TNF-\u03b1",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1456820",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1427,
+          "length": 10,
+          "text": "production",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0597295",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1442,
+          "length": 4,
+          "text": "I\u03baB\u03b1",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0126732",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1447,
+          "length": 15,
+          "text": "phosphorylation",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1158886",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1469,
+          "length": 5,
+          "text": "HMGB1",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0019796",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1485,
+          "length": 14,
+          "text": "Pre-incubation",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0022885",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1507,
+          "length": 5,
+          "text": "STAT3",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0253050",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1514,
+          "length": 3,
+          "text": "p38",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1120843",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1522,
+          "length": 5,
+          "text": "NF-\u03baB",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0079904",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1563,
+          "length": 5,
+          "text": "HMGB1",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0019796",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1578,
+          "length": 5,
+          "text": "IL-1\u03b2",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0021753",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1587,
+          "length": 5,
+          "text": "TNF-\u03b1",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1456820",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1593,
+          "length": 10,
+          "text": "production",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0597295",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1607,
+          "length": 6,
+          "text": "islets",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0022131",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1633,
+          "length": 5,
+          "text": "HMGB1",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0019796",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1642,
+          "length": 1,
+          "text": "H",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0242184",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1646,
+          "length": 1,
+          "text": "R",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0087111",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1657,
+          "length": 5,
+          "text": "islet",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0022131",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1663,
+          "length": 6,
+          "text": "injury",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0178314",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1722,
+          "length": 5,
+          "text": "STAT3",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0253050",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1739,
+          "length": 3,
+          "text": "p38",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1120843",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1757,
+          "length": 5,
+          "text": "NF-\u03baB",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0079904",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1775,
+          "length": 5,
+          "text": "HMGB1",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0019796",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1795,
+          "length": 14,
+          "text": "ethyl pyruvate",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0208225",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1838,
+          "length": 10,
+          "text": "antibodies",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0003241",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1877,
+          "length": 15,
+          "text": "phosphorylation",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1158886",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1896,
+          "length": 5,
+          "text": "STAT3",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0253050",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1903,
+          "length": 3,
+          "text": "p38",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1120843",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1911,
+          "length": 4,
+          "text": "I\u03baB\u03b1",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0126732",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1921,
+          "length": 10,
+          "text": "production",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0597295",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1935,
+          "length": 5,
+          "text": "IL-1\u03b2",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0021753",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1945,
+          "length": 5,
+          "text": "TNF-\u03b1",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1456820",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1960,
+          "length": 5,
+          "text": "islet",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0022131",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1966,
+          "length": 6,
+          "text": "injury",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0178314",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1986,
+          "length": 6,
+          "text": "islets",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0022131",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 2011,
+          "length": 1,
+          "text": "H",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0242184",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 2015,
+          "length": 1,
+          "text": "R",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0087111",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 2050,
+          "length": 5,
+          "text": "islet",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0022131",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 2056,
+          "length": 13,
+          "text": "graft failure",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1262018",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 2102,
+          "length": 5,
+          "text": "HMGB1",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0019796",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 2122,
+          "length": 1,
+          "text": "H",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0242184",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 2126,
+          "length": 1,
+          "text": "R",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0087111",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 2136,
+          "length": 6,
+          "text": "islets",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0022131",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 2175,
+          "length": 11,
+          "text": "up-regulate",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0041904",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 2187,
+          "length": 4,
+          "text": "STAT",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1366753",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 2195,
+          "length": 3,
+          "text": "p38",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1120843",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 2211,
+          "length": 5,
+          "text": "IL-1\u03b2",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0021753",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 2217,
+          "length": 10,
+          "text": "production",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0597295",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 2232,
+          "length": 4,
+          "text": "TLR2",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0754728",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 2242,
+          "length": 11,
+          "text": "up-regulate",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0041904",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 2254,
+          "length": 5,
+          "text": "NF-\u03baB",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0079904",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 2272,
+          "length": 5,
+          "text": "TNF-\u03b1",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1456820",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 2278,
+          "length": 10,
+          "text": "production",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0597295",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 2293,
+          "length": 4,
+          "text": "TLR4",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1411976",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 2301,
+          "length": 11,
+          "text": "intra-islet",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0022131",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 2340,
+          "length": 1,
+          "text": "H",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0242184",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 2344,
+          "length": 1,
+          "text": "R",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0087111",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 2355,
+          "length": 5,
+          "text": "islet",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0022131",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 2361,
+          "length": 6,
+          "text": "injury",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0178314",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 2378,
+          "length": 13,
+          "text": "graft failure",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1262018",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        }
+      ],
+      "class": "Document"
+    },
+    {
+      "begin": 0,
+      "length": 1128,
+      "text": "Update on the Role of Cardiac Magnetic Resonance in Acquired Nonischemic Cardiomyopathies\nCardiomyopathies refer to a variety of myocardial disorders without underlying coronary artery disease, valvular heart disease, hypertension, or congenital heart disease. Several imaging modalities are available, but cardiac magnetic resonance (CMR) has now established itself as a crucial imaging technique in the evaluation of several cardiomyopathies. It not only provides comprehensive information on structure and function, but also can perform tissue characterization, which helps in establishing the etiology of cardiomyopathy. CMR is also useful in establishing the diagnosis, providing guidance for endomyocardial biopsy, accurate quantification of function, volumes, and fibrosis, prognostic determination, risk stratification, and monitoring response to therapy. In this article, we review the current role of CMR in the evaluation of several acquired nonischemic cardiomyopathies, particularly focusing on recent advances in knowledge. We also discuss in detail a select group of common acquired nonischemic cardiomyopathies.\n",
+      "id": "27438188",
+      "title": null,
+      "language": "en",
+      "type": null,
+      "annotations": [
+        {
+          "begin": 22,
+          "length": 26,
+          "text": "Cardiac Magnetic Resonance",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0412692",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 61,
+          "length": 28,
+          "text": "Nonischemic Cardiomyopathies",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0878544",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 90,
+          "length": 16,
+          "text": "Cardiomyopathies",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0878544",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 129,
+          "length": 20,
+          "text": "myocardial disorders",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C3241958",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 169,
+          "length": 23,
+          "text": "coronary artery disease",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0010054",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 194,
+          "length": 22,
+          "text": "valvular heart disease",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0018824",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 218,
+          "length": 12,
+          "text": "hypertension",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0020538",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 235,
+          "length": 24,
+          "text": "congenital heart disease",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0152021",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 307,
+          "length": 26,
+          "text": "cardiac magnetic resonance",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0412692",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 335,
+          "length": 3,
+          "text": "CMR",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0412692",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 380,
+          "length": 17,
+          "text": "imaging technique",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0079595",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 405,
+          "length": 10,
+          "text": "evaluation",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0220825",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 427,
+          "length": 16,
+          "text": "cardiomyopathies",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0878544",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 495,
+          "length": 9,
+          "text": "structure",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0678594",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 540,
+          "length": 6,
+          "text": "tissue",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0040300",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 609,
+          "length": 14,
+          "text": "cardiomyopathy",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0878544",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 625,
+          "length": 3,
+          "text": "CMR",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0412692",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 664,
+          "length": 9,
+          "text": "diagnosis",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0011900",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 685,
+          "length": 8,
+          "text": "guidance",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1959633",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 698,
+          "length": 21,
+          "text": "endomyocardial biopsy",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0189785",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 771,
+          "length": 8,
+          "text": "fibrosis",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0016059",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 781,
+          "length": 10,
+          "text": "prognostic",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0220901",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 812,
+          "length": 14,
+          "text": "stratification",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1514983",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 832,
+          "length": 30,
+          "text": "monitoring response to therapy",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1822578",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 872,
+          "length": 7,
+          "text": "article",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0282420",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 911,
+          "length": 3,
+          "text": "CMR",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0412692",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 922,
+          "length": 10,
+          "text": "evaluation",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0220825",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 953,
+          "length": 28,
+          "text": "nonischemic cardiomyopathies",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0878544",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1027,
+          "length": 9,
+          "text": "knowledge",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0376554",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1066,
+          "length": 12,
+          "text": "select group",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C1257890",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        },
+        {
+          "begin": 1098,
+          "length": 28,
+          "text": "nonischemic cardiomyopathies",
+          "source": "GOLD",
+          "confidence": 1.0,
+          "refId": "C0878544",
+          "class": "NamedEntityAnnotation",
+          "candidates": []
+        }
+      ],
+      "class": "Document"
+    }
+  ],
+  "queries": []
+}

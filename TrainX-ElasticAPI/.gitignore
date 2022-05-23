@@ -1,0 +1,7 @@
+*.json
+.DS_Store
+site-packages/
+.idea
+*.tar
+*.pyc
+*.txt

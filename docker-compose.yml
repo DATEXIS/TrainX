@@ -1,0 +1,74 @@
+version: "3.5"
+services:
+
+  frontend:
+    container_name: TrainX-Frontend
+    build: TrainX-Frontend
+    ports:
+      - "4200:4200"
+    env_file:
+      - ./config/frontend.env
+
+  backend:
+    build: TrainX-Backend
+    container_name: TrainX-Backend
+    ports:
+      - "5000:5000"
+    volumes:
+      - vol-model-data:/var/lib/TraiNER/models
+    env_file:
+      - ./config/backend.env
+    links:
+      - postgres:postgres
+      - nel:nel
+
+  nel:
+    build: TrainX-NEL
+    container_name: TrainX-NEL
+    shm_size: '32gb'
+    ports:
+      - "4567:4567"
+    volumes:
+      - ./EXAMPLE_DATA/:/kb
+    env_file:
+      - ./config/nel.env
+
+  postgres:
+    image: postgres:latest
+    container_name: TrainX-DB
+    env_file:
+      - ./config/backend.env
+    volumes:
+      - vol-db-data:/var/lib/postgrsql/data
+    ports:
+      - "5432:5432"
+
+  elasticsearch:
+    container_name: TrainX-Elasticsearch
+    image: docker.elastic.co/elasticsearch/elasticsearch:7.5.1
+    volumes:
+      - vol-esdata:/usr/share/elasticsearch/data
+    environment:
+      - bootstrap.memory_lock=true
+      - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+      - discovery.type=single-node
+    ports:
+      - "9200:9200"
+
+
+  elastictrainer-api:
+    build: TrainX-ElasticAPI
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./EXAMPLE_DATA/:/app/api/elastictrainer/src
+    env_file:
+      - ./config/elastic-api.env
+    depends_on:
+      - "elasticsearch"
+
+
+volumes:
+  vol-db-data:
+  vol-esdata:
+  vol-model-data:

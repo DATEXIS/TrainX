@@ -1,0 +1,145 @@
+swagger: "2.0"
+info:
+  description: ""
+  version: "1.0.1"
+  title: "TrainX-NEL"
+basePath: "/"
+schemes:
+- "http"
+paths:
+  /startjob:
+    post:
+      summary: "Start a train or predict job"
+      description: "Start a train or predict job"
+      consumes:
+      - "application/json"
+      parameters:
+      - in: "body"
+        name: "context"
+        schema:
+           $ref: '#/definitions/JobContainer'
+      responses:
+        '200':
+          description: OK, job is scheduled and will be posted back to callbackUrl when its finished.
+
+  /jobstatus/{jobId}:
+    get:
+      summary: "Get status of a job"
+      description: "Get status of a job"
+      produces:
+      - "application/json"
+      parameters:
+      - in: path
+        type: integer
+        name: "jobId"
+        required: true
+      responses:
+        '200':
+          description: OK, return embedding
+          schema:
+            type: string
+            enum:
+              - "RUNNING"
+              - "FINISHED"
+              - "QUEUED"
+              - "NEW"
+              - "CREATED"
+            example: "RUNNING"
+
+definitions:
+  JobContainer:
+    type: object
+    properties:
+      mljob:
+        type: object
+        properties:
+          uid:
+            type: integer
+          type:
+            type: string
+            enum:
+            - "TRAIN"
+            - "PREDICT"
+          status:
+            type: string
+          model:
+            $ref: '#/definitions/MLModel'
+          dataset:
+            $ref: '#/definitions/Dataset'
+      callbackUrl:
+        type: string
+
+  Dataset:
+    type: object
+    properties:
+      uid:
+        type: number
+      name:
+        type: string
+      documents:
+        type: array
+        items:
+          $ref: '#/definitions/Document'
+
+  Document:
+    type: object
+    properties:
+      id:
+        type: string
+      uid:
+        type: number
+      language:
+        type: string
+        enum:
+          - de
+          - en
+      type:
+        type: string
+      text:
+        type: string
+      annotations:
+        type: array
+        items:
+          $ref: '#/definitions/Annotation'
+
+  Annotation:
+    type: object
+    properties:
+      uid:
+        type: number
+      text:
+        type: string
+        description: Text of annotation
+      begin:
+        type: integer
+        description: Begin offset relative to Document begin
+      length:
+        type: integer
+      source:
+        type: string
+        enum:
+          - GOLD
+          - PRED
+          - USER
+      type:
+        type: string
+      refId:
+        type: string
+      class:
+        type: string
+        enum:
+          - NamedEntityAnnotation
+
+  MLModel:
+    type: object
+    properties:
+      binary:
+        type: string
+        description: Base64 encoded archive of the ML model
+      type:
+        type: string
+        description: Internal identifier for the ML component
+      edited:
+        type: string
+        description: Used for datetime, defaults to str(datetime.utcnow())
+
